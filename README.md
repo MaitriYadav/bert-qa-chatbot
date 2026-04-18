@@ -23,4 +23,4 @@ This is a GUI-based Question Answering chatbot built using:
 - Hugging Face Transformers API
 
 ## Screenshot
-![Chatbot Screenshot](screenshot.png)
+![Chatbot Screenshot](Screenshot.png)
